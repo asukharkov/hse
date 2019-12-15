@@ -1,0 +1,2 @@
+ folder will be added to your local repository once you've committed (and appear on GitHub once you've pushed it).
+
